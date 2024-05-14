@@ -1,4 +1,4 @@
-# YOLOv5 Object Detection for Video Processing
+# YOLOv5 Object Detection for Image & Video  Processing
 
 This project demonstrates how to perform object detection on videos using YOLOv5 model.
 
